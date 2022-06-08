@@ -1,8 +1,8 @@
  ### Stacks
 
-![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=Laravel)
+![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=Laravel)
 ![NestJs](https://img.shields.io/badge/-NestJs-181717?style=flat-square&logo=nestjs)
-![VueJs](https://img.shields.io/badge/-VueJs-181717?style=flat-square&logo=vuejs)
+![VueJs](https://img.shields.io/badge/-VueJs-181717?style=flat-square&logo=vue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php)
