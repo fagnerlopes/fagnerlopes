@@ -5,6 +5,7 @@
 <div style="display: inline-block">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Php"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"> 
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+  <img src="https://img.shields.io/badge/NestJs-43853D?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJs">
 </div>
 
 ### FrontEnd
@@ -42,6 +43,7 @@
   <img src="https://img.shields.io/badge/VSCode-100000?style=for-the-badge&logo=visualstudio&logoColor=white&color=0872B1" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/Postman-100000?style=for-the-badge&logo=postman&logoColor=white&color=F26634" alt="Postman">
   <img src="https://img.shields.io/badge/Jira-100000?style=for-the-badge&logo=jira&logoColor=white&color=EF3939" alt="Jira">
+  <img src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=docker&logoColor=white&color=EF3939" alt="Docker">
 </div>
 
 ## Currently I’m focused on
