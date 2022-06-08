@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/VSCode-100000?style=for-the-badge&logo=visualstudio&logoColor=white&color=0872B1" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/Postman-100000?style=for-the-badge&logo=postman&logoColor=white&color=F26634" alt="Postman">
   <img src="https://img.shields.io/badge/Jira-100000?style=for-the-badge&logo=jira&logoColor=white&color=EF3939" alt="Jira">
-  <img src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=docker&logoColor=white&color=EF3939" alt="Docker">
+  <img src="https://img.shields.io/badge/Docker-100000?style=for-the-badge&logo=docker&logoColor=white&color=0179C0" alt="Docker">
 </div>
 
 ## Currently I’m focused on
@@ -59,7 +59,7 @@
 
 
 ## Some of my stats on GitHub
-<div style="display: inline-block">
+<div style="display: flex; align-items: flex-start">
   <img width="295px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagnerlopes&hide=Objective-C,starlark,shell,ruby&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> 
   <img width="405px" src="https://github-readme-streak-stats.herokuapp.com/?user=fagnerlopes&theme=react&border=61dafb&hide_border=true" alt="fagnerlopes" /> 
   <img width="275px" src="https://github-readme-stats.vercel.app/api?username=fagnerlopes&show_icons=true&hide_rank=true&theme=react&border_color=61dafb&hide_border=true" />
