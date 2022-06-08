@@ -2,7 +2,7 @@
 ### I'm Fagner Lopes and i love to build cool things for the internet.
 
 
-## How to reach me
+### How to reach me
 <div style="display: inline-block">
   <a href="https://instagram.com/fagnernlopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:fagnernlopes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
