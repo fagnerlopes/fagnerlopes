@@ -4,21 +4,22 @@
 
 ### How to reach me
 <div style="display: inline-block">
-  <a href="https://instagram.com/fagnernlopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fagnernlopes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fagnernlopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://instagram.com/fagnernlopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Fagner"></a>
+  <a href = "mailto:fagnernlopes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Fagner"></a>
+  <a href="https://www.linkedin.com/in/fagnernlopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Fagner"></a>   
 </div>
 
 ### BackEnd
 <div style="display: inline-block">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Php"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"> 
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-  <img src="https://img.shields.io/badge/NestJs-red?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJs">
+  
 </div>
 
 ### FrontEnd
 <div style="display: inline-block">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=black" alt="React">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"> 
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=black" alt="React">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&color=F25221" alt="Html">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&color=244AD9" alt="Css">
 </div>
@@ -26,6 +27,7 @@
 ### Frameworks and Libs
 <div style="display: inline-block">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/NestJs-red?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJs">
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=black" alt="ReactJS"> 
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=node.js&logoColor=white" alt="ExpressJS">
   <img src="https://img.shields.io/badge/Json-404D59?style=for-the-badge&logo=json&logoColor=black&color=EBD13A" alt="Json">
