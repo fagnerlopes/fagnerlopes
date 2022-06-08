@@ -49,17 +49,17 @@
 
 
 ## Some of my stats on GitHub
-
-<img width="295px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagnerlopes&hide=Objective-C,starlark,shell,ruby&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> 
-<img width="405px" src="https://github-readme-streak-stats.herokuapp.com/?user=fagnerlopes&theme=react&border=61dafb&hide_border=true" alt="fagnerlopes" /> 
-<img width="275px" src="https://github-readme-stats.vercel.app/api?username=fagnerlopes&show_icons=true&hide_rank=true&theme=react&border_color=61dafb&hide_border=true" />
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=fagnerlopes&theme=react-dark&bg_color=20232a&hide_border=true"/>
+<div style="display: inline-block">
+  <img width="295px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagnerlopes&hide=Objective-C,starlark,shell,ruby&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> 
+  <img width="405px" src="https://github-readme-streak-stats.herokuapp.com/?user=fagnerlopes&theme=react&border=61dafb&hide_border=true" alt="fagnerlopes" /> 
+  <img width="275px" src="https://github-readme-stats.vercel.app/api?username=fagnerlopes&show_icons=true&hide_rank=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=fagnerlopes&theme=react-dark&bg_color=20232a&hide_border=true"/>
+</div>
 
 
 ## How to reach me
 <div style="display: inline-block">
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnernlopes)](https://www.linkedin.com/in/fagnernlopes)
-  [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=google-chrome&logoColor=white&color=0A637E)](https://fagnerlopes.com.br)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caetano.burjack@gmail.com)](mailto:fagnernlopes@gmail.com)
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-Red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/fagnernlopes)](https://www.instagram.com/fagnernlopes)
+<a href="https://instagram.com/fagnernlopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:fagnernlopes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/fagnernlopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
