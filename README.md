@@ -1,11 +1,19 @@
 ## What's up! 
 ### I'm Fagner Lopes and i love to build cool things for the internet.
 
+
+## How to reach me
+<div style="display: inline-block">
+  <a href="https://instagram.com/fagnernlopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fagnernlopes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fagnernlopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 ### BackEnd
 <div style="display: inline-block">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Php"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"> 
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-  <img src="https://img.shields.io/badge/NestJs-43853D?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJs">
+  <img src="https://img.shields.io/badge/NestJs-red?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJs">
 </div>
 
 ### FrontEnd
@@ -59,9 +67,3 @@
 </div>
 
 
-## How to reach me
-<div style="display: inline-block">
-<a href="https://instagram.com/fagnernlopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:fagnernlopes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/fagnernlopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
