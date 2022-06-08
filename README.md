@@ -1,5 +1,8 @@
- ### Stacks
+ # Me
  
+ Full stack developer in a serious relationship with the best development technologies, back-end, front-end and mobile.
+ 
+ ### Stacks 
  <div style="display: inline_block"><br>
   <img align="center" alt="Fagner-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Fagner-Laravel" height="30" width="40" src="https://icongr.am/devicon/laravel-plain-wordmark.svg?size=128&color=ff0000">
@@ -29,7 +32,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker) -->
  
  
- ### Atividade
+ ### Stats
  
 <div style="padding: 0 1em;">
   <a href="https://github.com/fagnerlopes">
@@ -38,7 +41,7 @@
   </a>
 </div>
 
-### Contatos:
+### Contact
 
 <div>
  <a href="https://instagram.com/fagnernlopes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
