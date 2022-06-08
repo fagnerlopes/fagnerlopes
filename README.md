@@ -1,5 +1,17 @@
  ### Stacks
+ 
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Rodrigo-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Rodrigo-Laravel" height="30" width="40" src="https://icongr.am/devicon/laravel-plain-wordmark.svg?size=128&color=ff0000">
+  <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rodrigo-Node-Js" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Rodrigo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rodrigo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rodrigo-MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Rodrigo-Docker" height="30" width="40" src="https://icongr.am/devicon/docker-original.svg?size=122&color=ff0000">
+</div>
 
+<!--
 ![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=Laravel)
 ![NestJs](https://img.shields.io/badge/-NestJs-181717?style=flat-square&logo=nestjs)
 ![VueJs](https://img.shields.io/badge/-VueJs-181717?style=flat-square&logo=vue)
@@ -14,7 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker)
+![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker) -->
  
  
  ### Atividade
